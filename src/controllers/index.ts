@@ -3,3 +3,4 @@ export * from './alumnos.controller';
 export * from './matricula.controller';
 export * from './clases.controller';
 export * from './curso.controller';
+export * from './nota.controller';
